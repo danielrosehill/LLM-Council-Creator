@@ -4,7 +4,7 @@ Quick reference for choosing among the four scaffold bases.
 
 ## LLM-Council-Template
 
-**Location:** `~/repos/github/my-repos/LLM-Council-Template`
+**Source:** `https://github.com/danielrosehill/LLM-Council-Template`
 **Stack:** Python (uv) backend + frontend, OpenRouter, Typst PDF, Edge-TTS podcast
 **Council members:** 6 personality-based system prompts
   - Logical Thinker, Creative Problem Solver, Pessimist, Optimist, Connecting-The-Dots Specialist, Unconventional Solutions Ideator
@@ -15,7 +15,7 @@ Quick reference for choosing among the four scaffold bases.
 
 ## LLM-Council-Grounded
 
-**Location:** `~/repos/github/my-repos/LLM-Council-Grounded`
+**Source:** `https://github.com/danielrosehill/LLM-Council-Grounded`
 **Adds to Template:**
   - Planning agent (decides whether to retrieve)
   - Pinecone integration (vector search over a knowledge base)
@@ -26,7 +26,7 @@ Quick reference for choosing among the four scaffold bases.
 
 ## LLM-Council-Decide
 
-**Location:** `~/repos/github/my-repos/LLM-Council-Decide`
+**Source:** `https://github.com/danielrosehill/LLM-Council-Decide`
 **Council members:** formal decision-making frameworks (not personalities)
 **Default panel:** `pros_cons, weighted_matrix, pre_mortem, wrap, ten_ten_ten`
 **Selector:** optional `--auto-select` agent picks up to 5 frameworks matched to the decision
