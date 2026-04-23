@@ -1,6 +1,6 @@
 {
   "name": "LLM-Council-Creator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Scaffold new LLM Council projects from Daniel's templates (Template, Grounded, Decide) or build bespoke council repos for specific purposes.",
   "author": {
     "name": "Daniel Rosehill",
